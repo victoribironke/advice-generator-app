@@ -1,0 +1,9 @@
+@media screen and (min-width: 700px) {
+  main {
+    width: 450px;
+  }
+
+  .img {
+    width: 15%;
+  }
+}
